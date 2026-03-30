@@ -13,8 +13,6 @@ Serie de 4 webinars diseñados para profundizar sobre el aprendizaje supervisado
 | 3 | Teoría | ¿Datos no balanceados? | [Ver slides](https://docs.google.com/presentation/d/1j_QOGNp-ZKuH9Wrk2azmNxNbA8d_yWuAOX1ZQkY56YU/edit?usp=sharing) | [Ver notebook](https://github.com/CatherineCabreraTT24/S11-Supervised-Learning/blob/main/Webinar%201%20Teor%C3%ADa/W3_unbalanced_data.ipynb) |
 
 
-
-
 ---
 
 ## 🛠️ Requisitos y herramientas
